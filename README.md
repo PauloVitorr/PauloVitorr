@@ -9,6 +9,8 @@
 
 <div>
   <a href="https://github.com/PauloVitorr">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVitorr&show_icons=true&theme=radical)
+  <img height ="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorr)](https://github.com/anuraghazra/github-readme-stats)"/>
 
 </div>
   
