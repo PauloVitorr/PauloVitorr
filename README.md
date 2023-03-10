@@ -5,8 +5,8 @@
 - 😄 Pronouns: Ele/dele.
 
 
-  <a href="https://github.com/PauloVitorr">
-  <img height ="180em" src=(https://github-readme-stats.vercel.app/api?username=PauloVitorr&show_icons=true&theme=dark)"/>
-  <img height ="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorr&layout=compact=true&theme=dark)"/>
+<a href="https://github.com/PauloVitorr">
+<img height ="180em" src=(https://github-readme-stats.vercel.app/api?username=PauloVitorr&show_icons=true&theme=dark)"/>
+<img height ="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVitorr&layout=compact=true&theme=dark)"/>
 
   
