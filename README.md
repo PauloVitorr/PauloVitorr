@@ -4,4 +4,4 @@
 - 🌱 Atualmente aprendendo Python, JavaScript, CSS e HTML com a intenção de começar o ReactJS.
 - 😄 Pronouns: Ele/dele.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVitorr&show_icons=true&theme=radical)
